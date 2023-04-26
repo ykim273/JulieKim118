@@ -3,7 +3,7 @@ I'm a Software Engineering student in my final year, studying in University of A
 Reach me through: [Email](kimjulie118@gmail.com) | [LinkedIn](www.linkedin.com/in/julie-kim-081101y)
 
 ### My Skills
-🖥️ `Java` | `Swift` | `C++` | `Python` | `CSS` | `HTML` | `MySQL`  
+🖥️ `Java` | `Swift` | `C++` | `React` | `Javascript` | `CSS` | `HTML` | `MySQL`  
 🦊 `Problem-solving` | `Leadership` | `Fast-learning` | `Self-development`  
 
 
